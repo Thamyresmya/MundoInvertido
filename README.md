@@ -1,17 +1,16 @@
 # Projeto Mundo Invertido
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](inf/Capa.png)
+![Capa ](geral/Capa.png)
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-Imagem">Imagem</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-Layout">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-Documentação">Acesso</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 
 <br>
-
 
 ## 🚀 Tecnologias
 
@@ -26,19 +25,34 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido com a DIO.me.
+Projeto de uma página com o tema mundo invertido da série Stranger Things. Projeto desenvolvido junto com a DIO.me.
 
 <br>
 
-## 📸 Imagem
-Página do Mundo Invertido
+## 🔨 Funcionalidades do projeto
 
-<img width="70%" height="600" src="inf/1.png"></img>
+O projeto tem um carrossel de filmes, botões de assistir agora e mais informações.<br>
+
+Abaixo segue um exemplo:
+
+<img width="70%" height="350" src="geral/Mundo_invertido.gif"></img>
+
+Imagem da página da aplicação<br>
+<img width="70%" height="350" src="geral/home.png"></img>
+
+<br>
 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://thamyresmya.github.io/MundoInvertido/).
+É possível baixar ou acessar o código fonte do projeto através desse [Link.](https://github.com/Thamyresmya/MundoInvertido)
+
+
+<br>
+
+## 🛠️ Abrir e rodar o projeto
+
+Para acessar a página basta clicar nesse [Link](https://thamyresmya.github.io/MundoInvertido/).
 
 <br>
 
